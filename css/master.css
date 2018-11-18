@@ -5,6 +5,7 @@ html {
 }
 body {
   width: 1000px;
+  margin: auto;
 }
 h1 {
   font-size: 2rem;
