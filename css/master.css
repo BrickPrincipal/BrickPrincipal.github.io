@@ -16,6 +16,8 @@ h1 {
 .container {
   width: 1000px;
   margin: auto;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 nav {
   background-color: OrangeRed;
