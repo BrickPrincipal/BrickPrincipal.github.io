@@ -16,8 +16,7 @@ h1 {
 .container {
   width: 1000px;
   margin: auto;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 40px;
   background-color: grey;
 }
 nav {
